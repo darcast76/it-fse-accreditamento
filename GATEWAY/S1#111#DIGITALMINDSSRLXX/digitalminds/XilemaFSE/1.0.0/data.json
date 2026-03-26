@@ -56,6 +56,42 @@
 			"files": [
                 "VALIDAZIONE_CDA2_RAD_CT25.pdf"
                 ]
+		},
+		{
+			"id": 448,
+            "ts":"2026-03-26T15:54:11.727Z",
+			"traceId": "21c7a17ac94f807c7a860e7d5f085549",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.df44d22697c53c60bf527e12902370d4c4d03b601c343f4f0fa4bcf8992b3288.97862f7802^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "VALIDAZIONE_CDA2_RSA_CT24.pdf"
+                ]
+		},
+		{
+			"id": 32,
+            "ts":"2026-03-26T16:05:32.288Z",
+			"traceId": "74483ee5a77153b5be62b06e5655d826",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [
+                "VALIDAZIONE_TOKEN_JWT_RSA_KO.pdf"
+                ]
+		},
+		{
+			"id": 40,
+            "ts":"2026-03-26T16:10:31.272Z",
+			"traceId": "c57d5241dc918320f9326e90f0239292",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [
+                "VALIDAZIONE_TOKEN_JWT_CAMPO_RSA_KO.pdf"
+                ]
+		},
+		{
+			"id": 159,
+            "ts":"2026-03-26T16:25:17.204Z",
+			"traceId": "8f69d6c289e26160e16acb2e07b20bf7",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.e6def8a21b81288abc41ccb6a6cf1c3ad9e9d28ccedea5a3025da267183fb403.24379861cc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "VALIDAZIONE_CDA2_RSA_CT13_KO.pdf"
+                ]
 		}
 	]
 }
